@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9bf19f58-ea2e-4138-8385-537f8fd57851/resourceGroups/Chrome_Extension/providers/Microsoft.Web/sites/cors-anywhere-proxy",
+    "appService.deploySubpath": "."
+}
